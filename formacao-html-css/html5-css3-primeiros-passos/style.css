@@ -1,0 +1,50 @@
+#banner {
+    width: 100%;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {  /** a hashtag na frente é a declaração de um ID**/
+    font-size: 18px;
+}
+
+
+
+em strong {
+    color: #FF0000;
+}
+
+.itens { /** o ponto na frente é a declaração de uma classe no HTML. **/
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.img-beneficios {
+    width: 50%;
+}
